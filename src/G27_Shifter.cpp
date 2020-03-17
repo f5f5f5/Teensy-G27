@@ -27,7 +27,7 @@
 #define HS_XAXIS_12        450
 #define HS_XAXIS_56        900
 #define HS_YAXIS_135       1000
-#define HS_YAXIS_246       300
+#define HS_YAXIS_246       400
 
 // Digital inputs definitions
 #define DI_REVERSE         1

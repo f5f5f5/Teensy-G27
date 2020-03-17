@@ -6,7 +6,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "c:/Users/leggy/Documents/PlatformIO/Projects/180506-001212-teensylc/src",
+                "e:/Github/F5F5F5/Teensy-G27/src",
                 "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/libraries/EEPROM",
                 "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/cores/teensy3",
                 "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/libraries/ADC",
@@ -113,7 +113,7 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/leggy/Documents/PlatformIO/Projects/180506-001212-teensylc/src",
+                    "e:/Github/F5F5F5/Teensy-G27/src",
                     "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/libraries/EEPROM",
                     "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/cores/teensy3",
                     "C:/Users/leggy/.platformio/packages/framework-arduinoteensy/libraries/ADC",

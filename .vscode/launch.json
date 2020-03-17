@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/leggy/Documents/PlatformIO/Projects/180506-001212-teensylc/.pio/build/teensylc/firmware.elf",
+            "executable": "e:/Github/F5F5F5/Teensy-G27/.pio/build/teensylc/firmware.elf",
             "toolchainBinDir": "C:/Users/leggy/.platformio/packages/toolchain-gccarmnoneeabi/bin",
             "svdPath": "C:/Users/leggy/.platformio/platforms/teensy/misc/svd/MKL26Z4.svd",
             "preLaunchTask": {
@@ -25,7 +25,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/leggy/Documents/PlatformIO/Projects/180506-001212-teensylc/.pio/build/teensylc/firmware.elf",
+            "executable": "e:/Github/F5F5F5/Teensy-G27/.pio/build/teensylc/firmware.elf",
             "toolchainBinDir": "C:/Users/leggy/.platformio/packages/toolchain-gccarmnoneeabi/bin",
             "svdPath": "C:/Users/leggy/.platformio/platforms/teensy/misc/svd/MKL26Z4.svd",
             "internalConsoleOptions": "openOnSessionStart"
